@@ -389,6 +389,8 @@ Manipulating web pages is the primary benefit of the JavaScript language! These 
 1.  Grab the first exercise in Wes Bos's JavaScript30 program by cloning the repo at [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30). Code along with the [Video Tutorial](https://www.youtube.com/watch?v=VuN8qwZoego) to build the rest of the exercise. In the video you will notice that a deprecated [keycode](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode) keyboard event is used, replace it with the recommended [code](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code) keyboard event and replace the `data-key` tags accordingly.
 2.  Watch the [Event Capture, Propagation and Bubbling video](https://www.youtube.com/watch?v=F1anRyL37lE) from Wes Bos's JavaScript30 program. If you want to code along with the video, you can use the contents of folder #25 from the repo you cloned above.
 
+Personally I cannot recommend these resources here since half of the stuff I'm being taught doesnt work. I'm copying the code lien for line and it isn't working so I'm not sure that it's the best to follow for this cirriculum if you don't understand why the errors are occuring. 
+
 </div>
 
 ### Knowledge Check
